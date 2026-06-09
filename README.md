@@ -1,4 +1,4 @@
-Hi 👋 My name is David Bendig
+Hi 👋 My name is David
 =============================
 
 I'm a passionate Full Stack Engineer with extensive experience in developing scalable, user-facing applications for enterprise clients and a keen interest in Web3 and Distributed Ledger Technologies (DLT).
